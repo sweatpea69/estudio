@@ -1,0 +1,24 @@
+<html>
+<head><center><h1></head>Elefante</center></h1>
+<br>
+<head><center><h2>(Elephantidae)</head></center></h2>
+<body bgcolor="black"; text="white">
+<center><img src="elefante.jpg" align="center"; height="200"; widht="100"; border="5"></center>
+<br>
+<p aling="justify">Los elefantes o elefántidos son una familia de mamíferos placentarios del orden Proboscidea. Antiguamente se
+clasificaban, junto con otros mamíferos de piel gruesa, en el orden, ahora inválido, de los paquidermos. Existen hoy en día tres
+especies y diversas subespeciesLos elefantes de los bosques africanos habitan la densa selva tropical de África occidental y central,
+mientras que los elefantes de la sabana africana habitan principalmente en las sabanas boscosas y los pastizales del África subsahariana.
+Los elefantes comen raíces, hierba, fruta y corteza, y lo hacen en grandes cantidades. Un elefante adulto puede consumir hasta 135 kilogramos 
+de comida en un solo día
+</p>
+<h2><font color="black"><marquee bgcolor="fuchsia" behavior="alternate">CARACTERISTICAS</marquee></font></h2>
+<ol type>
+<li> los que tienen el período de gestación más largo, que puede extenderse hasta por 680 días
+<li>Se organizan en manadas de unos 20 miembros
+<li>pueden llegar a pesar más de 6.000 kilos
+<li>miden casi 4 metros los ejemplares más grandes
+<li>El elefante africano tiene tres dedos en la pata trasera y cinco en la parte delantera del pie
+</ol type>
+</body>
+</html>
